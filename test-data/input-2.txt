@@ -1,0 +1,4 @@
+# Kétszer SINGLE egymás után, mindkét tár tele -> 1.: primary, 2.: secondary
+GT4500,2,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE  # EXPECT: first SUCCESS from primary, second SUCCESS from secondary

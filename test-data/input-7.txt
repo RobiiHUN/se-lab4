@@ -1,0 +1,3 @@
+# ALL módban mindkét tár üres -> FAILURE
+GT4500,0,0,0,0
+TORPEDO,ALL  # EXPECT: FAILURE
