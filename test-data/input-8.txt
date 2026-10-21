@@ -1,0 +1,3 @@
+# Az első kilövés technikai hibát jelez (fail flag), ship nem próbálja a másikat
+GT4500,3,1,3,0  
+TORPEDO,SINGLE   

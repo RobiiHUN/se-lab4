@@ -1,0 +1,3 @@
+# ALL módban mindkét tár tele -> két sikeres kilövés
+GT4500,4,0,4,0
+TORPEDO,ALL  # EXPECT: SUCCESS (both fired)
